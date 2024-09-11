@@ -1,0 +1,1337 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+
+    justify-content: space-around;
+
+    color: rgb(26, 26, 218);
+    padding: 8px;
+}
+
+ul li {
+    display: inline;
+    padding: 20px;
+}
+
+.image1 img {
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 10px;
+
+
+}
+
+.main1 {
+    height: 99vh;
+    width: 100%;
+
+}
+
+.image2 {
+
+    height: 99vh;
+    width: 100%;
+    background-image: url(../SOCIAL/slider_background.png );
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+
+.main1 {
+    height: 90vh;
+    width: 100%;
+
+}
+
+.kid1 {
+    height: 99vh;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(38, 70, 97, 0.8);
+    position: relative;
+}
+
+.mark {
+    background-color: rgba(38, 70, 97, 0.0);
+    color: yellow;
+}
+
+.paragraph1 {
+    color: whitesmoke;
+    padding-top: 200px;
+    font-size: 20px;
+
+}
+
+.hiding1 {
+    color: whitesmoke;
+    padding-top: 30px;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragraph2 {
+    color: whitesmoke;
+    position: relative;
+    top: 1rem;
+
+}
+
+.kid2 {
+    height: 50px;
+    width: 150px;
+    background-color: rgb(250, 247, 247);
+    border-radius: 30px;
+    position: relative;
+    top: 5rem;
+    left: 35rem;
+}
+
+.children {
+    padding: 17px 20px;
+
+}
+
+.smallboll {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 40px;
+    gap: 20px;
+    position: relative;
+    bottom: 1rem;
+    right: 1rem;
+
+}
+
+.smallboll1 {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(240, 248, 6);
+    border-radius: 30px;
+}
+
+.smallboll2 {
+    height: 15px;
+    width: 15px;
+    background-color: white;
+    border-radius: 30px;
+}
+
+.smallboll2 {
+    height: 15px;
+    width: 15px;
+    background-color: white;
+    border-radius: 30px;
+}
+
+.hiding2 {
+    font-size: 64px;
+    text-align: center;
+    position: relative;
+    color: rgb(89, 86, 117);
+}
+
+.image7 {
+    height: 18px;
+    width: 150px;
+    background-image: url(../SOCIAL/WhatsApp\ Image\ 2023-10-31\ at\ 02.10.54_18b57623.jpg );
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 34rem;
+}
+
+.paragraph3 {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.main2 {
+    height: 70vh;
+    width: 99%;
+    background-image: url('./ASSETS/SOCIAL/blog_entry_01.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.parent1 {
+    height: 300px;
+    width: 100%;
+
+    display: flex;
+}
+
+.hr {
+    height: 0px;
+
+    width: 20%;
+}
+
+.hr1 {
+    height: 4px;
+    width: 170px;
+    background-color: yellow;
+    border: none;
+    position: relative;
+    left: 8rem;
+    top: 8rem;
+    z-index: 2;
+
+}
+
+.hr2 {
+    height: 4px;
+    width: 163px;
+    background-color: yellow;
+    border: none;
+    position: relative;
+    left: 5.25rem;
+    top: 8rem;
+    z-index: 3;
+
+}
+
+.hr3 {
+    height: 4px;
+    width: 165px;
+    background-color: yellow;
+    border: none;
+    position: relative;
+    left: 4rem;
+    top: 8rem;
+    z-index: 2;
+
+}
+
+
+
+
+.image3 img {
+    height: 140px;
+    width: 170px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    bottom: 3px;
+    left: 10rem;
+    top: 3.75rem;
+    z-index: 1;
+}
+
+.image4 img {
+    height: 130px;
+    width: 140px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 7rem;
+    top: 4rem;
+    z-index: 1;
+}
+
+.image5 img {
+    height: 140px;
+    width: 140px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 5rem;
+    top: 3.75rem;
+    z-index: 1;
+
+}
+
+.image6 img {
+    height: 140px;
+    width: 150px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+    top: 3.75rem;
+    z-index: 1px;
+    left: 3rem;
+
+}
+
+.parent2 {
+    height: 50%;
+    width: 100%;
+    display: flex;
+    gap: 8rem;
+
+}
+
+.hiding3 {
+    position: relative;
+    left: 10rem;
+    bottom: 4rem;
+}
+
+.paragraph5 {
+    text-align: center;
+    position: relative;
+    bottom: 3rem;
+    left: 10rem;
+}
+
+.main3 {
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    gap: 10rem;
+    background-color: rgb(11, 42, 63);
+}
+
+.kid7 {
+
+    height: 80vh;
+    width: 33%;
+    background-image: url(../SOCIAL/WhatsApp_Image_2023-10-25_at_01.33.16_444b2fdd-removebg-preview.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 10rem;
+    top: 6px;
+}
+
+.kid9 {
+    display: flex;
+    gap: 20px;
+}
+
+.hiding4 {
+    color: white;
+    position: relative;
+    left: 4rem;
+    top: 3rem;
+}
+
+.paragraph6 {
+    color: white;
+    position: relative;
+    left: 4rem;
+    top: 6rem;
+}
+
+.children1 {
+    position: relative;
+    left: 4rem;
+    top: 8rem;
+
+}
+
+.children2 {
+    position: relative;
+    left: 4rem;
+    top: 8rem;
+    color: whitesmoke;
+}
+
+.image8 {
+    height: 20px;
+    width: 20px;
+    border-radius: 30px;
+    background-image: url(../SOCIAL/WhatsApp\ Image\ 2023-10-31\ at\ 02.10.53_8504e70b.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 14px;
+}
+
+.hiding5 {
+    margin-top: 18px;
+    font-size: 13px;
+}
+
+.main4 {
+    height: 20vh;
+    width: 100%;
+    background-color: yellow;
+}
+
+.image9 {
+    height: 40px;
+    width: 150px;
+    border-radius: 30px;
+    background-color: aliceblue;
+    margin-left: 40rem;
+    position: relative;
+    top: 2rem;
+}
+
+.hiding6 {
+    position: relative;
+    top: 10px;
+    text-align: center;
+}
+
+.hiding7 {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 40px;
+    color: blueviolet;
+}
+
+.imageb1 {
+    height: 25px;
+    width: 50px;
+    background-color: rgb(253, 253, 4);
+    border-radius: 40px;
+    position: relative;
+    top: 1.5rem;
+    left: 20rem;
+
+}
+
+.hiding8 {
+    position: relative;
+    left: 5px;
+    top: 5px;
+
+}
+
+.hiding9 {
+
+    display: inline;
+    padding: 20px;
+}
+
+.children3 {
+    text-align: center;
+
+    position: relative;
+
+}
+
+.main5 {
+    height: 110vh;
+    width: 75%;
+
+    position: relative;
+    left: 10rem;
+    top: 2rem;
+
+}
+
+.parent3 {
+    height: 33%;
+
+    display: flex;
+}
+
+.parent4 {
+    height: 33%;
+    width: 100%;
+
+    display: flex;
+}
+
+.parent5 {
+    height: 33%;
+    width: 100%;
+
+    display: flex;
+}
+
+.photo1 {
+    height: 100%;
+    width: 33%;
+
+}
+
+.imagep1 {
+    height: 95%;
+    width: 95%;
+    background-image: url(../SOCIAL/images.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 13px;
+    top: 6px;
+}
+
+.imagep2 {
+    height: 95%;
+    width: 95%;
+    background-image: url(../SOCIAL/images\ \(2\).jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 13px;
+    top: 6px;
+}
+
+.imagep3 {
+    height: 95%;
+    width: 95%;
+    background-image: url(../SOCIAL/laptop-11.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 13px;
+    top: 6px;
+}
+
+.imagep4 {
+    height: 95%;
+    width: 95%;
+    background-image: url(../SOCIAL/latest\ laptop\ 2014.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 13px;
+    top: 6px;
+}
+
+.imagep5 {
+    height: 95%;
+    width: 95%;
+    background-image: url(../SOCIAL/new-york-city-usa-view-to-lower-manhattan-downtown-skyline-famous-empire-state-building-skyscrapers-sunset-travel-120573233.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 13px;
+    top: 6px;
+}
+
+.imagep6 {
+    height: 95%;
+    width: 95%;
+    background-image: url(../SOCIAL/dell-xps-15-01.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 13px;
+    top: 6px;
+}
+
+.imagep7 {
+    height: 95%;
+    width: 95%;
+    background-image: url(../SOCIAL/download\ \(1\).jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 13px;
+    top: 6px;
+}
+
+.imagep8 {
+    height: 95%;
+    width: 95%;
+    background-image: url(../SOCIAL/download\ \(3\).jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 13px;
+    top: 6px;
+}
+
+.imagep9 {
+    height: 95%;
+    width: 95%;
+    background-image: url(../SOCIAL/download\ \(2\).jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 13px;
+    top: 6px;
+}
+
+.photo2 {
+    height: 40px;
+    width: 150px;
+    background-color: rgb(253, 253, 4);
+    border-radius: 30px;
+    position: relative;
+    left: 35rem;
+    top: 5rem;
+
+}
+
+.hiding10 {
+    color: rgb(238, 211, 7);
+    padding: 10px 40px;
+    font-size: 15px;
+}
+
+.main6 {
+    height: 70vh;
+    width: 100%;
+    background-color: yellow;
+    position: relative;
+    top: 10rem;
+}
+
+.photo3 {
+    height: 70%;
+    width: 40%;
+
+    background-image: url(../SOCIAL/download\ \(9\).jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 10rem;
+    top: 4rem;
+
+}
+
+.hiding11 {
+    text-align: center;
+    padding-left: 37%;
+    position: relative;
+    bottom: 15rem;
+}
+
+
+.paragraph7 {
+    text-align: center;
+    padding-left: 44%;
+    position: relative;
+    bottom: 14.5rem;
+    font-size: 18px;
+}
+
+.paragraph8 {
+
+    color: rgb(253, 253, 250);
+    position: relative;
+    bottom: 14rem;
+    padding-left: 55%;
+}
+
+.kid10 {
+    height: 40px;
+    width: 130px;
+    background-color: rgb(251, 251, 248);
+    border-radius: 35px;
+    text-align: center;
+    position: relative;
+    bottom: 10rem;
+    left: 47rem;
+
+
+}
+
+.hiding12 {
+    padding: 11px 20px;
+}
+
+.main7 {
+    height: 90vh;
+    width: 100%;
+    background-color: rgb(5, 44, 60);
+    position: relative;
+    top: 10rem;
+}
+
+.hiding13 {
+    color: aliceblue;
+    text-align: center;
+    padding: 30px 0;
+
+}
+
+.paragraph9 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+.child2 {
+    height: 40px;
+    width: 130px;
+    background-color: rgb(253, 253, 250);
+    border-radius: 35px;
+    text-align: center;
+    position: relative;
+    left: 35rem;
+    top: 1.5rem;
+}
+
+.hiding14 {
+    padding: 10px 20px;
+    color: yellow;
+}
+
+.photo4 {
+    height: 63%;
+    width: 80%;
+    background-image: url(../SOCIAL/WhatsApp\ Image\ 2023-10-25\ at\ 01.33.12_92a104ba.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 8rem;
+    top: 40px;
+}
+
+.main8 {
+    height: 90vh;
+    width: 99.99%;
+    position: relative;
+    top: 10rem;
+}
+
+.hiding15 {
+    text-align: center;
+
+}
+
+.imagec1 {
+    height: 18px;
+    width: 150px;
+    background-image: url(../SOCIAL/WhatsApp\ Image\ 2023-10-25\ at\ 01.34.45_552a6c8c.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 34.5rem;
+    top: 1rem;
+
+}
+
+.paragraph10 {
+    text-align: center;
+    padding: 30px 0px;
+}
+
+.hiding16 {
+    text-align: center;
+    position: relative;
+    top: 6rem;
+    right: 14rem;
+    color: yellow;
+}
+
+.hiding17 {
+    font-size: 16px;
+    text-align: center;
+    position: relative;
+    right: 12rem;
+    top: 7rem;
+}
+
+.paragraph11 {
+    position: relative;
+    bottom: 12rem;
+    padding: 0px 360px;
+}
+
+.imagec2 {
+    height: 60%;
+    width: 20%;
+    background-image: url(../SOCIAL/team_member_01.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    position: relative;
+    left: 5rem;
+    top: 22px;
+}
+
+.imagec3 {
+    height: 60%;
+    width: 16%;
+    background-image: url(../SOCIAL/team_member_02.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    position: relative;
+    left: 66rem;
+    top: 13.5rem;
+}
+
+.imagec4 {
+    height: 90.5vh;
+    width: 100%;
+    background-color: rgba(245, 248, 248, 0.8);
+    position: relative;
+    left: 0rem;
+    bottom: 20.5rem;
+}
+
+.imageh1 {
+    display: flex;
+    padding-left: 35%;
+    position: relative;
+    bottom: 8rem;
+    gap: 20px;
+}
+
+.imagec5 {
+    height: 30px;
+    width: 30px;
+    background-image: url(../SOCIAL/WhatsApp\ Image\ 2023-10-25\ at\ 01.32.25_20e95c86.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.imagec6 {
+    height: 30px;
+    width: 30px;
+    background-image: url(../SOCIAL/WhatsApp\ Image\ 2023-10-25\ at\ 01.33.32_1e9729a0.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.imagec7 {
+    height: 30px;
+    width: 30px;
+    background-image: url(../SOCIAL/WhatsApp\ Image\ 2023-10-25\ at\ 01.32.51_2d019c01.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+
+.main9 {
+    height: 70vh;
+    width: 100%;
+    background-color: rgb(5, 44, 60);
+    gap: 2rem;
+    position: relative;
+    top: 10rem;
+    display: flex;
+}
+
+.parent6 {
+    height: 70%;
+    width: 40%;
+    position: relative;
+    left: 6rem;
+    top: 4rem;
+}
+
+.parent7 {
+    height: 70%;
+    width: 40%;
+    position: relative;
+    left: 8rem;
+    top: 4rem;
+}
+
+.hiding18 {
+    color: yellow;
+    font-size: 15;
+    left: 50px;
+
+}
+
+.hiding19 {
+    color: rgb(250, 250, 249);
+    font-size: 15;
+    padding-top: 5px;
+    left: 40px;
+}
+
+.line4 {
+    height: 30px;
+    width: 90%;
+    background-color: aliceblue;
+    background-image: linear-gradient(90deg, yellow 90%, white 10%);
+    position: relative;
+
+    top: 11px;
+    border-radius: 30px;
+}
+
+.hiding20 {
+    color: rgb(250, 250, 249);
+    font-size: 19;
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+
+.line5 {
+    background-color: aliceblue;
+    border-radius: 30px;
+    background-image: linear-gradient(90deg, yellow 90%, white 10%);
+    height: 30px;
+    width: 90%;
+    position: relative;
+    top: 20px;
+}
+
+.hiding21 {
+    color: rgb(250, 250, 249);
+    font-size: 17;
+    position: relative;
+    top: 25px;
+    left: 15px;
+}
+
+.line6 {
+    height: 30px;
+    width: 90%;
+    background-image: linear-gradient(90deg, yellow 90%, white 10%);
+    border-radius: 30px;
+    background-color: aliceblue;
+    position: relative;
+    top: 30px;
+    bottom: 15px;
+}
+
+.hiding22 {
+    color: rgb(250, 250, 249);
+    font-size: 17;
+    position: relative;
+    top: 35px;
+    left: 15px;
+}
+
+.line7 {
+    height: 30px;
+    width: 90%;
+    border-radius: 30px;
+    background-image: linear-gradient(90deg, yellow 90%, white 10%);
+    background-color: aliceblue;
+    position: relative;
+    top: 40px;
+}
+
+.hiding23 {
+    color: yellow;
+    left: 9rem;
+}
+
+.paragraph12 {
+    color: aliceblue;
+    position: relative;
+    top: 3rem;
+
+}
+
+.kid11 {
+    height: 30vh;
+    width: 99.5%;
+    position: relative;
+    top: 10rem;
+
+}
+
+.image7 {
+    position: relative;
+    top: 1rem;
+}
+
+.hiding24 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.paragraph13 {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.imagec8 {
+    height: 18px;
+    width: 150px;
+    background-image: url(../SOCIAL/WhatsApp\ Image\ 2023-10-25\ at\ 01.34.45_552a6c8c.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 35rem;
+    top: 1rem;
+}
+
+.main10 {
+    height: 120vh;
+    width: 70%;
+    position: relative;
+    top: 10rem;
+    left: 13rem;
+
+
+}
+
+.parent8 {
+    height: 48%;
+    width: 99.5%;
+    display: flex;
+    gap: 10px;
+}
+
+.parent9 {
+    height: 48%;
+    width: 99.5%;
+    display: flex;
+    gap: 10px;
+}
+
+.kid12 {
+    height: 100%;
+    width: 49%;
+    background-color: rgb(247, 244, 240);
+}
+
+.kid13 {
+    height: 100%;
+    width: 49%;
+    background-color: rgb(247, 244, 240);
+}
+
+.kid14 {
+    height: 100%;
+    width: 32.5%;
+    background-color: rgb(247, 244, 240);
+}
+
+.kid15 {
+    height: 100%;
+    width: 32.5%;
+    background-color: rgb(247, 244, 240);
+}
+
+.kid16 {
+    height: 100%;
+    width: 32.5%;
+    background-color: rgb(247, 244, 240);
+}
+
+.imagec9 {
+    height: 58%;
+    width: 99%;
+    background-image: url(../SOCIAL/blog_entry_01.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imagec10 {
+    height: 58%;
+    width: 99%;
+    background-image: url(../SOCIAL/blog_entry_02.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imagec11 {
+    height: 58%;
+    width: 99%;
+    background-image: url(../SOCIAL/blog_entry_03.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imagec12 {
+    height: 58%;
+    width: 99%;
+    background-image: url(../SOCIAL/blog_entry_04.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imagec13 {
+    height: 58%;
+    width: 99%;
+    background-image: url(../SOCIAL/blog_entry_05.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hiding25 {
+    color: yellow;
+}
+
+.hiding27 {
+    color: yellow;
+    position: relative;
+    left: 80px;
+    bottom: 15px;
+}
+
+.hiding28 {
+    color: yellow;
+}
+
+.hiding30 {
+    color: yellow;
+    position: relative;
+    left: 80px;
+    bottom: 15px;
+}
+
+.readmore {
+    color: yellow;
+    text-align: end;
+    border-bottom: 30px;
+
+}
+
+.readmore1 {
+    color: yellow;
+    text-align: end;
+
+}
+
+.imagec14 {
+    color: rgb(247, 247, 252);
+    text-align: center;
+    padding: 10px 20px;
+    height: 20px;
+    width: 100px;
+    background-color: rgb(249, 249, 5);
+    border-radius: 30px;
+    font-size: 15px;
+    position: relative;
+    left: 20rem;
+    top: 3rem;
+}
+
+.main11 {
+    height: 30vh;
+    width: 100%;
+    background-color: yellow;
+    position: relative;
+    top: 20rem;
+}
+
+.hiding31 {
+    text-align: center;
+}
+
+.imagec15 {
+    height: 30px;
+    width: 350px;
+    text-align: center;
+    padding: 10px 20px;
+    background-color: rgb(249, 249, 244);
+    border-radius: 30px;
+    font-size: 15px;
+    position: relative;
+    left: 16rem;
+    top: 3rem;
+
+
+}
+
+.hiding32 {
+    position: relative;
+    right: 8rem;
+    top: 6px;
+}
+
+.imagec16 {
+    height: 30px;
+    width: 200px;
+    text-align: center;
+    padding: 10px 20px;
+    background-color: rgb(249, 249, 244);
+    border-radius: 30px;
+    font-size: 15px;
+    position: relative;
+    left: 43rem;
+
+}
+
+.hiding33 {
+    position: relative;
+    right: 4.5rem;
+    top: 6px;
+}
+
+.main12 {
+    height: 90vh;
+    width: 100%;
+
+    position: relative;
+    top: 20rem;
+}
+
+.imagec17 {
+    height: 100%;
+    width: 100%;
+    background-image: url(../SOCIAL/WhatsApp\ Image\ 2023-10-25\ at\ 01.33.24_6a58f252.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+
+.kid17 {
+    height: 90vh;
+    width: 100%;
+    background-color: rgba(1, 43, 61, 0.6);
+    position: relative;
+}
+
+.hiding34 {
+    text-align: center;
+    color: aliceblue;
+}
+
+.imagec18 {
+    height: 18px;
+    width: 150px;
+    background-image: url(../SOCIAL/WhatsApp\ Image\ 2023-10-25\ at\ 01.34.45_552a6c8c.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 35rem;
+    top: 1rem;
+}
+
+.paragraph16 {
+    text-align: center;
+    color: aliceblue;
+    padding: 30px 0;
+
+}
+
+.border {
+    display: flex;
+    gap: 1rem;
+    position: relative;
+    margin-left: 18%;
+}
+
+.border1 {
+    height: 7vh;
+    width: 25%;
+    border: 1px solid whitesmoke;
+}
+
+.border2 {
+    height: 7vh;
+    width: 25%;
+    border: 1px solid whitesmoke;
+}
+
+.border3 {
+    height: 7vh;
+    width: 25%;
+    border: 1px solid whitesmoke;
+}
+
+.hiding35 {
+    text-align: center;
+    color: azure;
+    position: relative;
+    right: 90px;
+    top: 10px;
+}
+
+.border4 {
+    height: 35vh;
+    width: 64%;
+    border: 1px solid whitesmoke;
+    justify-content: left;
+    position: relative;
+    left: 18%;
+    top: 1rem;
+
+}
+
+.hiding36 {
+    color: azure;
+    padding: 10px 20px;
+
+}
+
+.imagec19 {
+    height: 20px;
+    width: 120px;
+    text-align: center;
+    padding: 10px 20px;
+    background-color: rgb(249, 249, 244);
+    border-radius: 30px;
+    font-size: 15px;
+    position: relative;
+    left: 33rem;
+    top: 40px;
+}
+
+.main13 {
+    height: 40vh;
+    width: 99.99%;
+    background-color: rgb(10, 21, 35);
+    position: relative;
+    top: 20rem;
+
+}
+
+.hiding37 {
+    text-align: center;
+    color: azure;
+    font-size: 12px;
+    padding: 20px 0;
+}
+
+.hiding38 {
+    text-align: center;
+    color: azure;
+    font-size: 12px;
+
+}
+
+.imagec20 {
+    height: 30px;
+    width: 150px;
+    background-image: url(../SOCIAL/WhatsApp\ Image\ 2023-10-25\ at\ 01.32.47_ff6b1175.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 34.5rem;
+    top: 20px;
+}
+
+.hiding39 {
+    text-align: center;
+    color: azure;
+    font-size: 12px;
+    padding: 40px 0;
+}
+
+.mark {
+    background-color: rgba(6, 66, 114, 0.0);
+    color: yellow;
+
+}
